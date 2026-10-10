@@ -1,0 +1,13 @@
+
+Week 2: Feature Engineering, Scaling, and Preprocessing Pipeline
+
+End-to-end data preprocessing and feature engineering pipeline implemented for Week 2 tasks using scikit-learn, imbalanced-learn, and MLflow[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span)[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span).
+
+Overview
+
+This repository covers the complete Week 2 syllabus across 5 modules:
+- **Day 1: Feature Engineering & Encoding** — Handling nominal vs. ordinal categorical features using `OneHotEncoder` and `OrdinalEncoder`[span_5](start_span)[span_5](end_span).
+- **Day 2: Feature Scaling & Selection** — Comparative scaling using `StandardScaler`, `MinMaxScaler`, and `RobustScaler`; top-5 feature selection using `SelectKBest`[span_6](start_span)[span_6](end_span).
+- **Day 3: Handling Imbalanced Data** — Synthetic minority oversampling via `SMOTE` applied strictly to training partitions to prevent data leakage[span_7](start_span)[span_7](end_span).
+- **Day 4: Train/Test Split & Cross-Validation** — Stratified data splitting and cross-validation integrity checks[span_8](start_span)[span_8](end_span).
+- **Day 5: Week 2 Project** — Production-grade end-to-end preprocessing pipeline on the Titanic dataset utilizing `ColumnTransformer` and scikit-learn `Pipeline`[span_9](start_span)[span_9](end_span).
